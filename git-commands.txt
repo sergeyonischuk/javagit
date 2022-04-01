@@ -1,0 +1,1 @@
+git init - Init new repository in current folder
