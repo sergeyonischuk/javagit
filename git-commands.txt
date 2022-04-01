@@ -3,3 +3,5 @@ git status - view git repository status
 git add <file> - add file to staging area
 git commit -m "commit message" - make commit
 git log - see commit history
+git checkout <commit hash> - switch git repository to specific commit
+git checkout <branch> - switch git to last commit of specified bracnh
